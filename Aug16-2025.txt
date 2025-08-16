@@ -1,0 +1,29 @@
+complete striver 3  array videos.
+and question done from the striver sheet.
+
+link videos: 
+https://www.youtube.com/watch?v=37E9ckMDdTk&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=17
+https://www.youtube.com/watch?v=wvcQg43_V8U&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=18
+https://www.youtube.com/watch?v=bYWLJb3vCWY&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=19
+
+questions:
+
+1 Largest Element.
+2 Second Largest Element.
+3 Check if array is sorted.
+4 Remove duplicate from sorted array.
+5 left rotate array by d place.
+6 Move zero to end.
+7 Linear Search.
+8 Union.
+9 Missing nummber.
+10 Maximum connsecutive ones.
+11 Single Number.
+12 longest subarray having sum.
+
+for question just search by name itself you can get it.
+
+#G0-30  Day 1
+
+
+
