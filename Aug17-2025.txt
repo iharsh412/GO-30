@@ -1,0 +1,17 @@
+complete striver 2  array videos.
+and question done from the striver sheet.
+
+link videos: 
+https://www.youtube.com/watch?v=frf7qxiN2qU
+
+questions:
+
+1 longest subarray having sum.
+2 Two Sum 
+
+for question just search by name itself you can get it.
+
+#G0-30  Day 2
+
+
+
