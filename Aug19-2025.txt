@@ -4,9 +4,11 @@ and question done from the striver sheet.
 
 questions:
 
-1 Three Sum
-2 Sort 0,1,2 
+1 Majority Element
+2 Kadens Algo
 
 for question just search by name itself you can get it.
-#G0-30  Day 3
+#G0-30  Day 4
+
+
 
