@@ -5,7 +5,7 @@ and question done from the striver sheet.
 questions:
 
 1  Rearrange Array Elements by Sign
-
+2  Rearrange Array by sign Alternate Number
 
 for question just search by name itself you can get it.
 #G0-30  Day 6
