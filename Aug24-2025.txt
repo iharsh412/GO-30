@@ -4,10 +4,9 @@ and question done from the striver sheet.
 
 questions:
 
-1 Three Sum
-Revision many questions.
+1 four Sum
 
 
 for question just search by name itself you can get it.
-#G0-30  Day 7
+#G0-30  Day 9
 
